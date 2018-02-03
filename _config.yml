@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+name: Marcos A. de S. Silva
+description: Um blog sobre o meu cotidiano profissional como desenvolvedor, empreendedor e ministrante de cursos
+meta_description: "Um blog sobre o meu cotidiano profissional como desenvolvedor, empreendedor e ministrante de cursos"
+
+logo: false
+markdown: kramdown
+highlighter: pygments
+paginate: 15
+baseurl: /
+domain_name: 'http://massilva.github.io/blog/'
+google_analytics: 'UA-70471826-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://massilva.github.io/blog/'
+author:         'Marcos A. de S. Silva'
+bio:            'Desenvolvedor full-stack, empreendedor e ministrante de cursos apaixonado pela área de computação.'
