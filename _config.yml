@@ -15,3 +15,5 @@ gems: [jekyll-paginate]
 url:            'http://massilva.github.io/blog/'
 author:         'Marcos A. de S. Silva'
 bio:            'Desenvolvedor full-stack, empreendedor e ministrante de cursos apaixonado pela área de computação.'
+
+theme: jekyll-theme-leap-day
