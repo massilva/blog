@@ -5,11 +5,11 @@ meta_description: "Um blog sobre o meu cotidiano profissional como desenvolvedor
 logo: false
 markdown: kramdown
 highlighter: rouge
-paginate: 15
-baseurl: /
+paginate: 3
+baseurl: /blog
 domain_name: 'http://massilva.github.io/blog/'
 google_analytics: 'UA-70471826-1'
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'http://massilva.github.io/blog/'
