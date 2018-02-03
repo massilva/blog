@@ -1,0 +1,26 @@
+---
+# Let's add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax"
+;
+
+.center{
+  text-align: center;
+}
+
+.rounded{
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+	border: 5px solid #333;
+	margin-bottom: 1.5rem;
+}
