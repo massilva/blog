@@ -3,6 +3,7 @@ layout: post
 title:  "Curso front-end"
 date:   2018-02-03 08:00:00
 categories: Cursos
+excerpt: Neste curso aprendemos a criar um site desde a sua prototipação até a sua publicação no site do github. Os alunos aprenderam HTML5, CSS3 e Javascript, começando do zero, através de aulas expositivas e muitas atividades práticas.
 ---
 
 Em 2016, fizemos a primeira versão deste curso, juntamente com [Gláuber Brennon](https://github.com/gbrennon).
@@ -17,7 +18,13 @@ Apresentamos o conceito do [Mobile First](https://tableless.com.br/mobile-first-
 
 Eu fiquei muito feliz em vê o progresso dos alunos. A turma era heterogênea tinha pessoas que não eram da área, mais queriam aprender a criar o seu site, e pessoas que são estudantes, de algum curso da área, e estavam em busca de aprimorar os seus conhecimentos. E por isso, alguns alunos colocaram em prática o conhecimento adquirido em seu projeto pessoal enquanto outros seguiram a nossa idea de projeto, o ***[Currículo Online](https://vrpazdejesus.github.io/curso-dev-web)***.
 
+![Turma 1]({{site.baseurl}}/assets/images/post/2018-02-03-curso-desenvolvimento-web-turma.jpg)
+
 Ao final do curso os alunos tinham uma página de ***[Currículo Online](https://vrpazdejesus.github.io/curso-dev-web)*** [responsiva](https://en.wikipedia.org/wiki/Responsive_web_design), ou seja, se adapta às diferentes telas de dispositivos da forma que havíamos prototipados.  
+
+![Currículo Online]({{site.baseurl}}/assets/images/post/2018-02-03-curso-desenvolvimento-web-final.png)
+
+**Obrigado à todos os alunos pela confiança e pela participação em nosso curso.**
 
 Abaixo está a lista com os resultados:
 

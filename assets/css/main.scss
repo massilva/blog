@@ -24,3 +24,16 @@
 	border: 5px solid #333;
 	margin-bottom: 1.5rem;
 }
+
+.read-more{
+	border: 1px solid #333;
+	border-radius: 8px;
+	padding: 4px;
+	background-color: #333;
+	color: white;
+}
+
+.read-more:hover{
+	color: white;
+	background-color: #666666;
+}
